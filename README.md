@@ -30,7 +30,16 @@ I'm trying to get my degree in engineering and focusing in my studies! while i g
 		develop my own software
 		have my degree and different certificates
 
-	
+	## 🚀 Siempre aprendiendo 🚀
+
+Una de las cosas que más disfruto de la programación es que siempre hay algo nuevo por descubrir. Actualmente, me enfoco en mejorar mis habilidades en **Python** y **HTML**, pero estoy emocionado por aprender más lenguajes y herramientas, como:
+
+- 🌟 **JavaScript**, para explorar el desarrollo web dinámico.
+- 🤖 **R** o **MATLAB**, para proyectos relacionados con datos y estadísticas.
+- 📱 **Kotlin** o **Swift**, para adentrarme en el desarrollo móvil.
+
+Me encanta la idea de aprender constantemente y enfrentar nuevos retos. Si tienes alguna recomendación o recurso que creas que pueda ser útil, ¡no dudes en compartirlo conmigo! 😄
+
 
 		
 	
