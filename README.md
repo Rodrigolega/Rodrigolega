@@ -25,6 +25,8 @@ I'm trying to get my degree in engineering and focusing in my studies! while i g
 	def getCountry():
 		return Mexico()
 
+	def personalgoal():
+		
 	
  
  -------
