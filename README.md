@@ -26,7 +26,7 @@ I'm trying to get my degree in engineering and focusing in my studies! while i g
 		return Mexico()
 
 	def PersonalGoals():
-		creatin a new AI
+		creating a new AI
 		develop my own software
 		have my degree and different certificates
 
