@@ -32,17 +32,17 @@ I'm trying to get my degree in engineering and focusing in my studies! while i g
 
 	## 🚀 Siempre aprendiendo 🚀
 
-Una de las cosas que más disfruto de la programación es que siempre hay algo nuevo por descubrir. Actualmente, me enfoco en mejorar mis habilidades en **Python** y **HTML**, pero estoy emocionado por aprender más lenguajes y herramientas, como:
+I love that there's always something new to discover here! Right now, I'm mainly focusing on improving my Python and C++ skills, but I'm always exploring new things.
 
-- 🌟 **JavaScript**, para explorar el desarrollo web dinámico.
-- 🤖 **R** o **MATLAB**, para proyectos relacionados con datos y estadísticas.
-- 📱 **Kotlin** o **Swift**, para adentrarme en el desarrollo móvil.
+- 🌟 **JavaScript**, to dive into dynamic web development.
+- 🤖 **R** o **MATLAB**, for data and statistics-related projects.
 
-Me encanta la idea de aprender constantemente y enfrentar nuevos retos. Si tienes alguna recomendación o recurso que creas que pueda ser útil, ¡no dudes en compartirlo conmigo! 😄
-
-
-		
-	
- 
  -------
+## Current Works
 
+- I'm currently working on learning the next languages:
+
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
